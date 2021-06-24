@@ -1,5 +1,4 @@
 - 👋  Hi, I’m Paweł Niedźwiecki
 - 👀  I'm interested JavaScript, Node.js, big data :) 
-- 🌱  I’m currently learning node.js & mongodb & msql & postgresql & python  
+- 🌱  I’m currently learning node.js & mongodb & msql & postgresql  
 - 💞️  I'm looking to collaborate with big data
-- 📫  How to reach me ? Go to my portfolio : https://www.portfolio.uxu.pl or my blog https://www.uxu.pl/
